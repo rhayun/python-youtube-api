@@ -8,7 +8,7 @@ fetch public data (Video, Channel, Playlists info) from Youtube. No 3rd party de
 The reason of returning the decoded JSON response directly is that you only need to read the Google API doc 
 to use this library, instead of learning my set of API again (Keep it simple).
 
-
+```python
 youtube = YoutubeAPI('key': '/* Your API key here */')
 
 // Return a dict 
