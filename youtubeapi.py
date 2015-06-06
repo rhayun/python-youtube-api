@@ -305,6 +305,3 @@ class YoutubeAPI:
         return params
 
 
-ty = YoutubeAPI({'key': 'AIzaSyCeZGXJkf8cwoSxF1KkQ_d6y3n0sLLWVfM'})
-# print ty.get_playlist_by_id('PLFw7KwIWHNB0xJHalTpCNNzbKX_FzTdjR')
-print ty.get_playlist_items_by_playlist_id('PLFw7KwIWHNB0xJHalTpCNNzbKX_FzTdjR')
