@@ -1,7 +1,7 @@
 python-youtube-api
 ==================
 
-******THIS REPO IS NO LONGER MAINTAINED
+*********************    THIS REPO IS NO LONGER MAINTAINED   ****************************************************
 
 BASED ON php-youtube-api from: https://github.com/madcoda/php-youtube-api
 
