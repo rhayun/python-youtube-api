@@ -1,6 +1,8 @@
 python-youtube-api
 ==================
 
+******THIS REPO IS NO LONGER MAINTAINED
+
 BASED ON php-youtube-api from: https://github.com/madcoda/php-youtube-api
 
 A basic Python wrapper for the Youtube Data API v3 ( Non-OAuth ). Designed to let devs easily 
